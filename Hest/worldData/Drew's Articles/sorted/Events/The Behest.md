@@ -41,7 +41,7 @@ With their planes separated, they were content in their devine rule, but the cre
 
 [[Embis]], God of fire,
 
-[[Hyris]], god of water,
+[[Hydris]], god of water,
 
 [[Ventis]], god of air,
 
@@ -64,7 +64,7 @@ All of the cosmic energies thrown together all at once in The Behest created 4 n
 
 [[Do-ti]], the god of order, established the rules for life
 
-[Do-rah], the god of chaos, established variation in life
+[[Do-rah]], the god of chaos, established variation in life
 
   
 
