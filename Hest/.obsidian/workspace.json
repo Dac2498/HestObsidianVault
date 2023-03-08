@@ -11,12 +11,8 @@
             "id": "d9dfdfc58b957a77",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "worldData/Drew's Articles/sorted/Events/The Behest.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "worldData/Drew's Articles/sorted/Events/The Behest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "worldData/Drew's Articles/sorted/Events/The Behest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "worldData/Drew's Articles/sorted/Events/The Behest.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -149,6 +141,12 @@
   },
   "active": "d9dfdfc58b957a77",
   "lastOpenFiles": [
+    "worldData/Drew's Articles/sorted/Places/continent/Delios/nations/Zadian Empire/Lost Peak/buildings/The Unarmed Guard.md",
+    "worldData/Drew's Articles/sorted/People/npc/Nethrin Falodras.md",
+    "worldData/Drew's Articles/sorted/People/npc/Marla Wheatreaver.md",
+    "worldData/Drew's Articles/sorted/People/npc/Osra Sylfaelor.md",
+    "worldData/Drew's Articles/sorted/People/npc/Yorkas Sylfaelor.md",
+    "-WIP Templates/generic template.md",
     "worldData/Drew's Articles/sorted/Events/The Behest.md",
     "worldData/Drew's Articles/sorted/People/Gods/Major Gods/Elementals/Hydris.md",
     "worldData/Drew's Articles/sorted/People/npc/Fylaster Braniver.md",
@@ -169,17 +167,12 @@
     "worldData/Drew's Articles/sorted/People/npc/Streth Warcaller.md",
     "worldData/Drew's Articles/sorted/People/npc/Zefina Clearspirit.md",
     "worldData/Drew's Articles/sorted/People/npc/Stella Cliffhopper.md",
-    "worldData/Drew's Articles/sorted/People/npc/Nethrin Falodras.md",
     "worldData/Drew's Articles/sorted/People/npc/The Zadian Empire.md",
     "worldData/Drew's Articles/sorted/People/npc/Stoz Cliffhopper.md",
     "worldData/Drew's Articles/sorted/People/npc/Hushar Mahun.md",
     "worldData/Drew's Articles/sorted/People/npc/Tooth.md",
     "worldData/Drew's Articles/sorted/People/npc/Lilo Dane.md",
-    "worldData/Drew's Articles/sorted/People/npc/Marla Wheatreaver.md",
-    "worldData/Drew's Articles/sorted/Places/continent/Delios/nations/Zadian Empire/Lost Peak/buildings/The Unarmed Guard.md",
-    "worldData/Drew's Articles/sorted/People/npc/Yorkas Sylfaelor.md",
     "worldData/Drew's Articles/unsorted/230226155608.png.md",
-    "worldData/Drew's Articles/sorted/People/npc/Osra Sylfaelor.md",
     "worldData/Pictures/Pasted image 20230226162228.png",
     "worldData/Pictures/Pasted image 20230226162022.png",
     "worldData/Pictures/Pasted image 20230226161944.png",
@@ -192,7 +185,6 @@
     "worldData/Pictures/Pasted image 20230226154603.png",
     "worldData/Drew's Articles/sorted/Places/continent/Delios/Delios.md",
     "worldData/Drew's Articles/sorted/People/Untitled.md",
-    "worldData/Drew's Articles/sorted/People/Gods/Gods.md",
     "worldData/Drew's Articles/sorted",
     "worldData/Drew's Articles/unsorted"
   ]

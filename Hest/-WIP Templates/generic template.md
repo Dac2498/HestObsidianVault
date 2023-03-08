@@ -12,6 +12,7 @@ age:
 race:
 gender:
 class:
+subclass:
 level:
 occupation:
 allignment:
