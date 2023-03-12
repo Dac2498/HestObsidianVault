@@ -1,10 +1,10 @@
 ---
-type: god
-subtype1: major god
+type:
+subtype1:
 subtype2:
-desc: God of Knowledge
+desc:
 
-location: Plane of Knowledge
+location:
 
 date:
 age:
@@ -17,5 +17,5 @@ occupation:
 allignment:
 
 
-org: Primeval
+org: 
 ---
