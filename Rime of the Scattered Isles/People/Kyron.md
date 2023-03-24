@@ -1,0 +1,1 @@
+Husband to [[Netari]], father of [[Lyralai]]. Sold onto another ship after confronting [[Thalgal Sharpstone]] over Netari's pregnancy. Status and whereabouts unknown.

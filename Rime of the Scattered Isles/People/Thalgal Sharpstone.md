@@ -1,0 +1,3 @@
+Goliath Fighter, "The Cutlass of the Sea" Father of [[Kavalok Sharpstone]], [[Netari]]'s enslaver
+
+A preternaturally skilled swordsman, Thalgal Sharpstone is one of the most feared pirates in all the scattered isles, and is known on both sides of the Sea of Eternity as well. Where most pirates are lucky to have more than one decent ship at their command, Thalgal is lord of a small fleet of 13 ships, including his flagship, the frigate Over twenty years ago, he raided the small home island of a band of tieflings, including [[Lyralai]] and her parents. 

@@ -1,0 +1,3 @@
+Valhiri (Val for short- tiefling female captain of the [[Phantom]]. She is tough as nails, level-headed, but territorial. She takes her business very seriously because she knows that most men won’t take her seriously as a captain or competition (definitely a mistake) She leads an all female crew, something Vivian finds very inspiring. She’s never liked being on their bad side) 
+
+ ![](https://lh4.googleusercontent.com/vj03_8mJTFWg1A3EaDF8tJv8YpuISVVByYZIVYlYjL0pwrTrKA0qvAz2D0GxV1g_J2o0ofXeNRYk3iGYAyAEWMkCdQMD71g4ERrOLA_n-rfAd58RgzhoIBSNhJAdoEHw2JrhKb7uYeOMOla-jEnvoYQ)

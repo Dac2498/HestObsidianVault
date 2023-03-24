@@ -1,0 +1,1 @@
+Human scientist/scholar. Sister to [[Minuet Donnediu]]. Studied at the university in Korath, where she now holds a position. Marielle will soon receive word from Nazir of a position there with a considerable salary. The subject of the research is a mystery.

@@ -1,0 +1,1 @@
+Tiefling woman formerly of a small village near the Broiling Sea. Mother to [[Lyralai]] and [[Kavalok Sharpstone]]. Formerly married to [[Kyron]], though she hasn't seen him in years. Currently enslaved by [[Thalgal Sharpstone]]. To what degree she has adapted mentally to her situation is unknown.

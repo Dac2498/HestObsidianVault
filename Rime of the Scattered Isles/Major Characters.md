@@ -1,0 +1,11 @@
+**Player Characters**
+- Lyralai (Drew) - Tiefling Rogue/Swashbuckler
+	- Netari and Kyron, mom and dad
+	- Kavalok Sharpstone, half-brother
+	- Thalgal "Cutlass of the Sea" Sharpstone, slaver who razed her village and took her and her family
+- Minuet Donnedieu (Rachel) - Kalashtar Bard/College of Glamour
+	- Marielle, little sister
+	- Unknown spirit, spiritual "mother"
+	- Fitz Kirkpatrick, former friend and lover
+	- Fiern, satyr entertainer based in Port Glory who gave Minuet tips and taught her some secrets of the fae.
+- 

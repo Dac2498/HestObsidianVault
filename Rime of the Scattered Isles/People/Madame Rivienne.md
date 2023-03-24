@@ -1,0 +1,1 @@
+Proprietor of an upscale brothel in [[Port Glory]]. [[Minuet Donnediu]] was once one of her girls before her considerable skill and burgeoning fame allowed her to leave the world's oldest profession and open her own business.

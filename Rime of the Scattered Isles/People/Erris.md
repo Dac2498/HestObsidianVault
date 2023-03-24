@@ -1,0 +1,1 @@
+Tiefling, Koroki island native. Navigator of the [[Eternal Gale]].

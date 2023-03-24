@@ -1,0 +1,1 @@
+Satyr. Fae and fabulous, he is a musician and all around entertainer who knows a thing or two about the arts of love...and glamour. Friend and mentor to [[Minuet Donnediu]] who introduced her, somewhat reluctantly, to [[Madame Rivienne]]. 

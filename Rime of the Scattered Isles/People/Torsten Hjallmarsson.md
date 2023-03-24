@@ -1,0 +1,1 @@
+Dwarf, former slave from the far North captured by Thalgall Sharpstone's fleet decades ago. Currently the boatswain of the [[Eternal Gale]]. 

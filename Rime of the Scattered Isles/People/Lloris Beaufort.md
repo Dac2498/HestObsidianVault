@@ -1,0 +1,1 @@
+Human whaler. Captain of the [[Baxter Mariah]]. [[Madame Rivienne]]'s paramour and the only client she continued to service personally after opening her own establishment.

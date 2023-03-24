@@ -1,0 +1,1 @@
+Known as the "Mad Dog of Cape Constance," Killian Cane is a terror to the Scattered Isles and beyond. Any time the "blood moon" flag 

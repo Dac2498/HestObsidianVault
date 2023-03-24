@@ -1,0 +1,1 @@
+Slaver. Deceased. Letter on his person written in orcish.

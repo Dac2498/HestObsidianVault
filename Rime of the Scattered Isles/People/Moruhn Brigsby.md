@@ -1,0 +1,1 @@
+Half-orc. Son of the late Captain Brigsby of the [[Silver Fang]]. Holds a deep hatred for [[Vivian Wells]].

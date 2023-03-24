@@ -1,0 +1,3 @@
+Shalia (summer eladrin swashbuckler crewed on the Phantom. She helped Vivian escape) (Pronouns are she/they- Shalia is her chosen name. Shalia is transgender. She was born as Riardon. She found her home with the Phantom because they all accepted her for who she is. 
+
+![](https://lh3.googleusercontent.com/jC9uG1f_Iv22wOSCInJOlpd2QE3YwLt2Wx9maYZo06cLYaCtY4koli3b93xHAUsWwwsep0-8diu3G4b9H_KedubMm7tMho9y2FcOmvoId61AfUikauvON9qsVJDmNJEaA9gWjoU7IRugTMz5i_42Qa4)
