@@ -1,0 +1,20 @@
+- Tool proficiency
+- Expanded spell list
+	- 3rd: two 1st level
+	- 5th: two 2nd level
+	- 9th: two 3rd level
+	- 13th: two 4th level
+	- 17th: two 5th level
+- 3rd-level feature
+	- super-themey
+- 5th-level feature
+	- Ex:
+		- Bonus to damage or healing
+		- extra attack
+		- 
+- 9th-level feature
+	- Boost 3rd level feature
+	- Free spell
+- 15th-level feature
+	- Ex: resistances and two free spells/long rest
+	- Something sick

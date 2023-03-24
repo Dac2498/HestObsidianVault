@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "0081b1b2e7b0980a",
+    "type": "split",
+    "children": [
+      {
+        "id": "6cbdbce8439a0f73",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b0bad225a0e03b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Subclasses/Arcane Locksmith/Arcane Locksmith.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1f5da63237d8a001",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Subclasses/Arcane Locksmith/Artificer Template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "bb93e4a486b41d42",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1d11d6bfcf4a5a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Subclasses/Arcane Locksmith/Artificer Template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3221d35d399f804a",
+    "type": "split",
+    "children": [
+      {
+        "id": "975b79a39f929517",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0217a6a56ba9f1d5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cb200e09bffd58bc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6c235b4abd461e5f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "843ad45b257e412c",
+    "type": "split",
+    "children": [
+      {
+        "id": "404b8f1dd7f90a25",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dfc134e1ec3026a9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Subclasses/Arcane Locksmith/Arcane Locksmith.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2152d32281f6d999",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Subclasses/Arcane Locksmith/Arcane Locksmith.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f3610b1cd1c94499",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "24e4036b895b4082",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Subclasses/Arcane Locksmith/Arcane Locksmith.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1b0bad225a0e03b4",
+  "lastOpenFiles": [
+    "Subclasses/Arcane Locksmith/Artificer Template.md",
+    "Subclasses/Arcane Locksmith/Arcane Locksmith.md",
+    "Subclasses/Arcane Locksmith",
+    "Subclasses"
+  ]
+}
