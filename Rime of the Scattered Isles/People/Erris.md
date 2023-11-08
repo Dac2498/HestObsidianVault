@@ -1,1 +1,1 @@
-Tiefling, Koroki island native. Navigator of the [[Eternal Gale]].
+Tiefling, Koroki island native. Navigator of the [[Eternal Gale]]. DANCED WITH LYRA AND IT WAS HELLA ROMANTIC. Been with the Eternal Gale for 5 years. Has spent most of his life at sea.

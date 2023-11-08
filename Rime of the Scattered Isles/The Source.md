@@ -1,0 +1,3 @@
+The Source is the hidden heart of the island of San Rey. It is literally the heart of a blue whale that beached on the once much smaller island that would become San Rey cenutries -- or perhaps eons -- ago. The rest of the whale's flesh decayed away, but the heart was transformed by molds and fungi, and now rests at the center of an organism even larger than the whale that birthed it. All of San Rey's fungal life -- that which breaks down decay and bridges death into new life -- stems from the Source.
+
+The Source was corrupted by [[Zerinia]] with help from [[Corum]]. 

@@ -32,24 +32,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "bb93e4a486b41d42",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d1d11d6bfcf4a5a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Subclasses/Arcane Locksmith/Artificer Template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -99,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "843ad45b257e412c",
@@ -177,7 +158,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1b0bad225a0e03b4",
+  "active": "0217a6a56ba9f1d5",
   "lastOpenFiles": [
     "Subclasses/Arcane Locksmith/Artificer Template.md",
     "Subclasses/Arcane Locksmith/Arcane Locksmith.md",

@@ -1,0 +1,3 @@
+- Make maps for all the individual islands
+- Come up with person/people who caused pox, along with how they did it
+- Who are the other prominent people in Toquemada, other than Capsize Cate?

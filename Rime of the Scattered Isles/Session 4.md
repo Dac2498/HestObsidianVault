@@ -1,0 +1,2 @@
+- Mama Corina gave amulet to Lyra, connected to Calixto's Razor somehow.
+- 

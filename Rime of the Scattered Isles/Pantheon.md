@@ -13,6 +13,7 @@ Celestials:
 - Houden, the god of death, created death
 - Do-ti, the god of order, established the rules for life
 - Do-rah, the god of chaos, established variation in life
+	- Miris
 The Primevals:
 - Thorrin, the god of knowledge, gave life the ability to learn
 - Esca, the god of trickery, gave life the ability to lie

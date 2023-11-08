@@ -1,0 +1,1 @@
+Firbolg druid, formerly in leauge with [[Zerinia]] to bring a deadly pox on the residents of Toquemada.

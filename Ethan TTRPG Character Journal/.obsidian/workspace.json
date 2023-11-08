@@ -1,100 +1,60 @@
 {
   "main": {
-    "id": "dd52d5e7c2e1b0b9",
+    "id": "5b5716a5d6fd0b86",
     "type": "split",
     "children": [
       {
-        "id": "0163a248c7bca8a7",
+        "id": "2ce48d0956e6a5ba",
         "type": "tabs",
         "children": [
           {
-            "id": "3c60496738d6bca0",
+            "id": "5ac8c7d9508e4c21",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "6e30676aa2f7905d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session 6.md",
+                "file": "UNDC/Lizaveta.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "daf2ba69cb55130f",
+            "id": "a775bb6e81d6cac0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Kavalok Sharpstone.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8be7da8aa26baf84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session 6.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ed4a3fabd63a8409",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Source.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9fcd443f21356ce4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Port Glory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0f2d4b5313233495",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Plot Ideas SPOILER CENTRAL.md",
+                "file": "UNDC/Rodia.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "f68346437b76cf5b",
+    "id": "ba177ccebfc4bb32",
     "type": "split",
     "children": [
       {
-        "id": "09ca035ffec054d8",
+        "id": "80fac21ca7681eb2",
         "type": "tabs",
         "children": [
           {
-            "id": "bc44c48506cd6503",
+            "id": "e89e76363065594b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -104,7 +64,7 @@
             }
           },
           {
-            "id": "f434951a57787dbc",
+            "id": "6c8b2a6c6e548c79",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -119,15 +79,7 @@
             }
           },
           {
-            "id": "90930e4f04bb465e",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "8bfc45a2513e78d1",
+            "id": "e320352d63a8a6ef",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -141,20 +93,20 @@
     "width": 300
   },
   "right": {
-    "id": "41583449f15f3e03",
+    "id": "4ca4b2fde7bea2e9",
     "type": "split",
     "children": [
       {
-        "id": "f06a8c759347ea7e",
+        "id": "a000058c99cc5db8",
         "type": "tabs",
         "children": [
           {
-            "id": "bba985fe5c2bf752",
+            "id": "93f2a574126fbb80",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plot Ideas SPOILER CENTRAL.md",
+                "file": "UNDC/Rodia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,19 +118,19 @@
             }
           },
           {
-            "id": "d9e0916835e19bac",
+            "id": "ff8f7d8b8a3dbb0a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plot Ideas SPOILER CENTRAL.md",
+                "file": "UNDC/Rodia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "8494713ca7e347e2",
+            "id": "18838f8e1ff20efe",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -189,12 +141,12 @@
             }
           },
           {
-            "id": "5930bd96f6bb4faf",
+            "id": "995964d5bde6ce75",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plot Ideas SPOILER CENTRAL.md"
+                "file": "UNDC/Rodia.md"
               }
             }
           }
@@ -215,41 +167,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0f2d4b5313233495",
+  "active": "a775bb6e81d6cac0",
   "lastOpenFiles": [
-    "People/Kavalok Sharpstone.md",
-    "Plot Ideas SPOILER CENTRAL.md",
-    "Major Characters.md",
-    "Gian-zaro.md",
-    "Ships/Silver Fang.md",
-    "Ships/Red Tide.md",
-    "Ships/Phantom.md",
-    "Ships/Eternal Gale.md",
-    "Ships/Baxter Mariah.md",
-    "People/Thalgal Sharpstone.md",
-    "People/The Lighthouse Keeper.md",
-    "People/Vivian Wells.md",
-    "People/Xutag.md",
-    "People/Zilpah.md",
-    "People/Zerinia.md",
-    "People/Torsten Hjallmarsson.md",
-    "People/Scatha.md",
-    "People/Moruhn Brigsby.md",
-    "People/Marielle Donnediu.md",
-    "People/Mama Corina.md",
-    "People/Madame Rivienne.md",
-    "People/Lloris Beaufort.md",
-    "People/Kyron.md",
-    "People/Killian Cane.md",
-    "People/Arch Admiral Kashiri.md",
-    "People/Cate Capsize.md",
-    "Battersea1.jpg",
-    "il_fullxfull.3059189123_sknx.webp",
-    "Important Objects",
-    "Rime of the Scattered Isles",
-    "Ships",
-    "720X720-guide.jpg",
-    "720X720-guide 1.jpg",
-    "People"
+    "UNDC/Lizaveta.md",
+    "UNDC/Rodia.md",
+    "UNDC"
   ]
 }
